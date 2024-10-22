@@ -39,5 +39,4 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
   <a href="mailto:omer.al7labe.oa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
 
