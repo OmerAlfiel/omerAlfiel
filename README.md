@@ -12,7 +12,5 @@
 - **Cloud:** Heroku ☁️, AWS ☁️
 
 ## 🌐 Connect with Me:
-- 💼 [LinkedIn](www.linkedin.com/in/
-omer-ahmed-964152205
-)
+- 💼 [LinkedIn](www.linkedin.com/in/omer-ahmed-964152205)
 - 📫 Email: omer.al7labe.oa@gmail.com
