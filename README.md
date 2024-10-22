@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Omer!
 
 🚀 I am a passionate **JavaScript Backend Developer** focused on building **scalable** and **efficient** web applications. I specialize in **Node.js**, **Express**, and **NestJS**, with extensive experience in managing databases like **MongoDB** and **PostgreSQL**.
 
@@ -12,7 +12,7 @@
 - **Cloud:** Heroku ☁️, AWS ☁️
 
 ## 🌐 Connect with Me:
-- 💼 [LinkedIn](# www.linkedin.com/in/
+- 💼 [LinkedIn](www.linkedin.com/in/
 omer-ahmed-964152205
 )
 - 📫 Email: omer.al7labe.oa@gmail.com
