@@ -27,7 +27,7 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
 
 ## 🎯 Fun Projects:
 
-- 📝 **[Task Manager API](#)** - A task management system with RESTful APIs built using Node.js, MongoDB, and JWT authentication.
+- 📝 **[[Task Manager API](https://github.com/OmerAlfiel/Task-Manager-API)](#)** - A task management system with RESTful APIs built using Node.js, MongoDB, and JWT authentication.
 
 
 ---
