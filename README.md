@@ -28,6 +28,7 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
 ## 🎯 Fun Projects:
 
 - 📝 **[[Task Manager API](https://github.com/OmerAlfiel/Task-Manager-API)](#)** - A task management system with RESTful APIs built using Node.js, MongoDB, and JWT authentication.
+- 📝 **[[X-O-Game](https://github.com/OmerAlfiel/X-O-Game)](#)** - Tic-Tac-Toe Game This repository contains a web-based implementation of the classic Tic-Tac-Toe game.
 
 
 ---
