@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  # Run workflow every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: omer123  # Replace with your GitHub username
+          outputs: dist/snake.svg
+
+      - name: Push Snake Animation to GitHub
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
