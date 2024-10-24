@@ -40,4 +40,7 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
   <a href="mailto:omer.al7labe.oa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+### 🐍 A snake animation 🐍
+
+![snake gif](https://github.com/omerAlfiel/omerAlfiel/blob/output/github-contribution-grid-snake.svg)
 
