@@ -1,4 +1,4 @@
-<img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="600" />
+
 # Hi there 👋, I'm Omer!
 
 
@@ -20,7 +20,7 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
 
 
 ## 🛠️ Technologies & Tools:
-
+<img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="300" />
  
 <p>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
