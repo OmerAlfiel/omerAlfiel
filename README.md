@@ -1,4 +1,4 @@
-<img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="1200" />
+<img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="600" />
 # Hi there 👋, I'm Omer!
 
 
