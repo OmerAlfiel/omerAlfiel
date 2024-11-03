@@ -1,3 +1,4 @@
+<img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="1200" />
 # Hi there 👋, I'm Omer!
 
 
@@ -6,6 +7,9 @@
 
 
 ### 👨‍💻 About Me:
+
+<img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/Animation%20-%201730619931598.gif" width="90" />
+
 I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building **scalable** and **efficient** web applications. I specialize in **Node.js**, **Express**, and **NestJS**, and have extensive experience managing databases like **MongoDB** and **PostgreSQL**.
 
 🌱 **Learning and Growing:** I’m always keen to learn new technologies and improve my skills. I’m currently diving deeper into cloud architecture and system design.
@@ -16,6 +20,8 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
 
 
 ## 🛠️ Technologies & Tools:
+
+ 
 <p>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
