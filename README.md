@@ -5,7 +5,6 @@
 
 
 
-
 ### 👨‍💻 About Me:
 
 <img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/Animation%20-%201730619931598.gif" width="90" />
@@ -53,6 +52,10 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
 <p align="center">
   <a href="https://linkedin.com/in/omer.al7labe.oa@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:omer.al7labe.oa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~yourUpworkProfileID">
+  <img src="https://img.shields.io/badge/Upwork-blue?style=for-the-badge&logo=upwork" />
+</a>
+
 </p>
 
 
