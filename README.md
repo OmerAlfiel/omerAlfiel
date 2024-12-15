@@ -20,7 +20,7 @@ I'm a passionate **JavaScript Backend Developer** 🚀 with a focus on building 
 
 ## 🛠️ Technologies & Tools:
 <div align="center">
-  <img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="600" />
+  <img src="https://github.com/OmerAlfiel/omerAlfiel/blob/main/b44bcdce3c081cbb93513403ad129b7e.gif" width="800" />
 </div>
  
 <div align="center">
